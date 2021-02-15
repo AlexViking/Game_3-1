@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {name: 'six', img: 'images/6.png'}
   ];
 
+  // new coment
   cardArray.sort( () => 0.5 - Math.random())
 
   const grid = document.querySelector('.grid');
